@@ -2,7 +2,7 @@ urVoc (Your Vocabulary)
 -----------------------
 This app was made for Firefox OS.
 
-With the urVoc all language students can form their own vocabulary.
+With the urVoc all language students can create their own vocabulary.
 
 **Indicated uses**
 +To save new means of a word
